@@ -13,10 +13,12 @@ const state = {
   isOpen: false,
   index: 0,
   images: [
-    { src: 'images/sample-1.svg', caption: 'Sample image one — replace with your own' },
-    { src: 'images/sample-2.svg', caption: 'Sample image two — a second photo' },
-    { src: 'images/sample-3.svg', caption: 'Sample image three — a third' },
+    { src: 'images/Seahawks.jpg', caption: 'Lumen Field Seahawks and Texans game' },
+    { src: 'images/Universal_Studios.jpg', caption: 'My family at Universal Studios' },
+    { src: 'images/Universal_again.jpg', caption: 'Another photo of my family at Universal Studios' },
+    { src: 'images/Wife_and_I.jpg', caption: 'My wife and I at Oktoberfest' },
   ],
+  
 };
 
 // ── Mutators ────────────────────────────────────────────────────────────
